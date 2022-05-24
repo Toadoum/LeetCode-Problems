@@ -1,1 +1,1 @@
-This repository is for Data Structure and Algorithm practice (LeetCode problems)
+This repository is for Data Structure and Algorithms with Pyhton practice (LeetCode problems)
